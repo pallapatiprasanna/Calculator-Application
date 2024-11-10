@@ -1,0 +1,2 @@
+Calculator Application
+A simple calculator built with HTML, CSS, and JavaScript, offering basic arithmetic functions (addition, subtraction, multiplication, and division). The design is responsive for use on both desktop and mobile. Clone the repository, open index.html, and start calculating instantly. Click numbers and operators, then = for results; use C to clear the display. Enjoy easy calculations with a clean, intuitive interface!
